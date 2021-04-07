@@ -11,7 +11,7 @@ const index = (req, res) => {
         if(!foundPlayers) return res.json({ message: "No players found in DB"})
         // send json data
         
-        res.json({ user: foundPlayers })
+        res.json({ player: foundPlayers })
 
         // res.send("Incomplete games#index controller function");
     });
