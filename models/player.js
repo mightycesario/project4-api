@@ -5,6 +5,7 @@ const PlayerSchema = new Schema({
     name: String,
     team: String,
     age: Number,
+    position: String,
     photo: String,
     stats: [{ 
         name: String,

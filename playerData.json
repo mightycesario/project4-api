@@ -3,38 +3,58 @@
       {
           "name": "Josh Allen",
           "team": "Buffalo Bills",
+          "position": "Quarterback",
           "age": 24,
           "photo": "https://static.wixstatic.com/media/d3596c_a74dba55139a4251a3f7ba2099f6700e~mv2.gif"
       },
       {
           "name": "Deshaun Watson",
           "team": "Houston Texans",
+          "position": "Quarterback",
           "age": 24 ,
           "photo": "https://fivethirtyeight.com/wp-content/uploads/2019/10/GettyImages-1179690844-e1570637310398.jpg?w=575"
       },
       {
           "name": "Tyreke Hill",
           "team": "Kansas City Chiefs",
+          "position": "Wide Receiver",
           "age": 27,
           "photo": "https://www.al.com/resizer/2c3sB8ozpw0wtZY8qvTyJ3m9JV4=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/B5XKL6XLFFCGLAC56YQX2MZS5A.jpg"
       },
       {
           "name": "Nick Bosa",
           "team": "San Francisco 49ers",
+          "position": "Defensive End",
           "age": 27,
           "photo": "https://www.si.com/.image/t_share/MTY3NDYzMjIzODA3NzE1MTE3/nick-bosa-49ers-baker-mayfield-celebration.jpg"
       },
       {
           "name": "Raheem Mostert",
-          "team": "New Orleans Saints",
+          "team": "San Francisco 49ers",
+          "position": "Running Back",
           "age": 27,
-          "photo": "https://thumbs.gfycat.com/UnfitSpitefulBlackrussianterrier-size_restricted.gif"
+          "photo": ""
       },
       {
           "name": "Lamar Jackson",
           "team": "Baltimore Ravens",
+          "position": "Quarterback",
           "age": 29,
           "photo": "https://cdn.vox-cdn.com/thumbor/4tcQ3lloGrn08M4EW3XZKfSO298=/0x0:5814x3717/1200x800/filters:focal(2442x1394:3372x2324)/cdn.vox-cdn.com/uploads/chorus_image/image/68678693/1230591122.0.jpg"
+      },
+      {
+          "name": "Teddy Bridgewater",
+          "team": "Carolina Panthers",
+          "position": "Quarterback",
+          "age": 29,    
+          "photo": "https://www.sharpfootballanalysis.com/wp-content/uploads/2020/11/Teddy-Bridgewater-Panthers-2020-scaled.jpg"
+      },
+      {
+          "name": "Ezekiel Elliott",
+          "team": "Dallas Cowboys",
+          "position": "Running Back",
+          "age": 26,    
+          "photo": "https://www.toledoblade.com/image/2020/06/15/1140x_a10-7_cTC/Redskins-Cowboys-Football-43.jpeg"
       }
   ]
 }
